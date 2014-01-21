@@ -52,6 +52,7 @@ if dict1.has_key("chicken"):
 else:
 	print "Someone looking for a Hamburger?"
 
+#if the dictionary has the value of a somewhere in it
 if dict1.has_key('a'):
 	print "I luv " + dict1["a"] + "burgers."
 	
